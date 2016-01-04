@@ -1,5 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
+ruby:
+  title: ruby
+  description: sakd;askdad;lakda;ldksad;lasafkjlaflkfjewqoiqjoilksdlkc
+  image_url: ruby.png
+  price: 12.99
+
 one:
   title: MyString
   description: MyText
