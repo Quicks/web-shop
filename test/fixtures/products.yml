@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 ruby:
-  title: ruby
+  title: Ruby
   description: sakd;askdad;lakda;ldksad;lasafkjlaflkfjewqoiqjoilksdlkc
   image_url: ruby.png
   price: 12.99
